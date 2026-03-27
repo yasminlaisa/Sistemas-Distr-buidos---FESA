@@ -1,2 +1,2 @@
-# Sistemas-Distr-buidos---FESA
+# Sistemas-Distr-buidos-FESA
 Conteúdo da disciplina de sistemas distríbuidos
